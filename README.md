@@ -28,8 +28,6 @@
 
 ### Создание шаблона, с элементами данных, мониторящих загрузку CPU и RAM хостов.
 
-```
-
 ![Создание нового шаблона](https://github.com/SLOV1977/smon-hw03/tree/main/img/smon-hw-03-01.png)
 
 ![Создание нового шаблона](img/smon-hw-03-01.png)
@@ -55,8 +53,6 @@
 
 ### Добавление в Zabbix двух хостов с именами rakhmanovav-1 и rakhmanovav-2. Привязка к ним шаблона Task 1.
 
-```
-
 ![Вкладка Configuration - Hosts](https://github.com/SLOV1977/smon-hw03/tree/main/img/smon-hw-03-05.png)
 
 ![Вкладка Configuration - Hosts](img/smon-hw-03-05.png)
@@ -71,8 +67,6 @@
 ### Задание 4
 
 ### Создание дашборда Task 4.
-
-```
 
 ![Дашборд Task 4](https://github.com/SLOV1977/smon-hw03/tree/main/img/smon-hw-03-07.png)
 
